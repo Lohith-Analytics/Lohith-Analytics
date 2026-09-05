@@ -6,7 +6,6 @@ I'm a passionate Data Analyst who enjoys transforming raw data into meaningful i
 I’m currently building my skills in data analysis, visualization, SQL, Python, and business intelligence.
 
 🛠️ Skills & Tools
-
 📈 Data Analysis
 Python
 Pandas
