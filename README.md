@@ -1,22 +1,85 @@
-<h1 align="center">Hi 👋, I'm Lohith M S</h1>
-<h3 align="center">'m a passionate Data Analyst who enjoys transforming raw data into meaningful insights that help solve real-world problems and support better decision-making I’m currently building my skills in data analysis, visualization, SQL, Python, and business intelligence.</h3>
+👋 Hi, I'm [Lohith M S]
+📊 Data Analyst | Turning Data into Insights
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lohith-analytics&label=Profile%20views&color=0e75b6&style=flat" alt="lohith-analytics" /> </p>
+I'm a passionate Data Analyst who enjoys transforming raw data into meaningful insights that help solve real-world problems and support better decision-making.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lohith-analytics" alt="lohith-analytics" /></a> </p>
+I’m currently building my skills in data analysis, visualization, SQL, Python, and business intelligence.
 
-- 📫 How to reach me **lohith.analytics@gmail.com**
+🛠️ Skills & Tools
+📈 Data Analysis
+Python
+Pandas
+NumPy
+Excel
+SQL
+Data Cleaning
+Exploratory Data Analysis (EDA)
+Statistical Analysis
+📊 Data Visualization
+Power BI
+Tableau
+Matplotlib
+Seaborn
+Excel Dashboards
+🗄️ Databases
+MySQL
+PostgreSQL
+SQL Server
+🔧 Tools
+Git & GitHub
+Jupyter Notebook
+VS Code
+📂 Featured Projects
+📊 Sales Data Analysis
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+Analyzed sales data to identify trends, top-performing products, customer behavior, and revenue patterns.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Tools: Python, Pandas, Matplotlib, Seaborn
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lohith-analytics&show_icons=true&locale=en&layout=compact" alt="lohith-analytics" /></p>
+📈 Business Intelligence Dashboard
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lohith-analytics&show_icons=true&locale=en" alt="lohith-analytics" /></p>
+Created an interactive dashboard to track KPIs, sales performance, and business trends.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lohith-analytics&" alt="lohith-analytics" /></p>
+Tools: Power BI, Excel, SQL
 
+🛒 Customer Analysis
+
+Performed customer segmentation and exploratory analysis to understand purchasing behavior and identify business opportunities.
+
+Tools: Python, Pandas, SQL
+
+📚 Currently Learning
+Advanced SQL
+Power BI & DAX
+Advanced Excel
+Statistics for Data Analysis
+Machine Learning Fundamentals
+📊 My Data Analysis Workflow
+Raw Data
+   ↓
+Data Cleaning
+   ↓
+Exploratory Data Analysis
+   ↓
+Data Visualization
+   ↓
+Statistical Analysis
+   ↓
+Business Insights
+   ↓
+Data-Driven Decisions
+
+🎯 Goals
+Build real-world data analytics projects
+Improve my SQL and Python skills
+Create impactful Power BI dashboards
+Contribute to open-source projects
+Grow into a strong data professional
+📫 Let's Connect
+💼 LinkedIn: [Your LinkedIn]
+📧 Email: [lohith.analytics@gmail.com]
+🐙 GitHub: [Lohith-Analytics]
+
+⭐ Thanks for visiting my profile!
+
+\
