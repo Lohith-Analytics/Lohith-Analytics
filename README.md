@@ -1,8 +1,7 @@
 👋 Hi, I'm [Lohith M S]
 📊 Data Analyst | Turning Data into Insights
 
-I'm a passionate Data Analyst who enjoys transforming raw data into meaningful insights that help solve real-world problems and support better decision-making.
-
+I'm a passionate Data Analyst who enjoys transforming raw data into meaningful insights that help solve real-world problems and support better decision-making
 I’m currently building my skills in data analysis, visualization, SQL, Python, and business intelligence.
 
 🛠️ Skills & Tools
